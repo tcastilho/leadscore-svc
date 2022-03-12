@@ -30,6 +30,10 @@
 
 Environment of LeadScore Service - [GitHub - leadscore-env](https://github.com/tcastilho/leadscore-env)
 
+## Documentation
+
+The Api Swagger documentation is available [here](http://localhost:3000/api/)
+
 ## Installation
 
 ```bash
